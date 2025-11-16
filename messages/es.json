@@ -1,0 +1,19 @@
+  {
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "app_title": "App del Tiempo",
+    "search_placeholder": "Ingresa el nombre de la ciudad...",
+    "search_button": "Buscar",
+    "searching": "Buscando...",
+    "save": "Guardar",
+    "saving": "Guardando...",
+    "favorites": "Favoritos",
+    "no_favorites": "No hay favoritos aún",
+    "no_favorites_hint": "Guarda ciudades para acceder rápidamente",
+    "login_to_save": "Inicia sesión para guardar favoritos",
+    "delete": "Eliminar",
+    "humidity": "Humedad",
+    "wind_speed": "Velocidad del Viento",
+    "login": "Iniciar sesión",
+    "logout": "Cerrar sesión",
+    "hi_user": "¡Hola, {username}!"
+  }

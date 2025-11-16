@@ -1,0 +1,19 @@
+  {
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "app_title": "Väderapp",
+    "search_placeholder": "Ange stadsnamn...",
+    "search_button": "Sök",
+    "searching": "Söker...",
+    "save": "Spara",
+    "saving": "Sparar...",
+    "favorites": "Favoriter",
+    "no_favorites": "Inga favoriter ännu",
+    "no_favorites_hint": "Spara städer för snabb åtkomst",
+    "login_to_save": "Logga in för att spara favoriter",
+    "delete": "Ta bort",
+    "humidity": "Luftfuktighet",
+    "wind_speed": "Vindhastighet",
+    "login": "Logga in",
+    "logout": "Logga ut",
+    "hi_user": "Hej, {username}!"
+  }

@@ -1,0 +1,19 @@
+  {
+    "$schema": "https://inlang.com/schema/inlang-message-format",
+    "app_title": "Weather App",
+    "search_placeholder": "Enter city name...",
+    "search_button": "Search",
+    "searching": "Searching...",
+    "save": "Save",
+    "saving": "Saving...",
+    "favorites": "Favorites",
+    "no_favorites": "No favorites yet",
+    "no_favorites_hint": "Save cities to access them quickly",
+    "login_to_save": "Login to save favorites",
+    "delete": "Delete",
+    "humidity": "Humidity",
+    "wind_speed": "Wind Speed",
+    "login": "Login",
+    "logout": "Logout",
+    "hi_user": "Hi, {username}!"
+  }
