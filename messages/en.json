@@ -15,5 +15,11 @@
     "wind_speed": "Wind Speed",
     "login": "Login",
     "logout": "Logout",
-    "hi_user": "Hi, {username}!"
+    "hi_user": "Hi, {username}!",
+    "profile": "Profile",
+    "user_id": "User ID",
+    "username": "Username",
+    "edit_username": "Edit Username",
+    "cancel": "Cancel",
+    "back_to_weather": "Back to Weather"
   }

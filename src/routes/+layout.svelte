@@ -49,7 +49,7 @@
 
 	{#if data.user}
 		<div class="flex items-center gap-4">
-			<span class="text-gray-600">Hi, {data.user.username}!</span>
+			<a href="/profile" class="text-gray-600 hover:text-gray-800">{data.user.username}</a>
 			<form method="post" action="/auth/logout" use:enhance>
 				<button class="text-red-600 hover:text-red-800">{m.logout()}</button>
 			</form>

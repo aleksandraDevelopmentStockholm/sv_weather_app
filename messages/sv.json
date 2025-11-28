@@ -15,5 +15,11 @@
     "wind_speed": "Vindhastighet",
     "login": "Logga in",
     "logout": "Logga ut",
-    "hi_user": "Hej, {username}!"
+    "hi_user": "Hej, {username}!",
+    "profile": "Profil",
+    "user_id": "Användar-ID",
+    "username": "Användarnamn",
+    "edit_username": "Redigera Användarnamn",
+    "cancel": "Avbryt",
+    "back_to_weather": "Tillbaka till Väder"
   }

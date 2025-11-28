@@ -15,5 +15,11 @@
     "wind_speed": "Velocidad del Viento",
     "login": "Iniciar sesión",
     "logout": "Cerrar sesión",
-    "hi_user": "¡Hola, {username}!"
+    "hi_user": "¡Hola, {username}!",
+    "profile": "Perfil",
+    "user_id": "ID de Usuario",
+    "username": "Nombre de usuario",
+    "edit_username": "Editar Nombre",
+    "cancel": "Cancelar",
+    "back_to_weather": "Volver al Tiempo"
   }
